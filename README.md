@@ -1,1 +1,1 @@
-# osito-peru
+# Descubre-la-Programación
