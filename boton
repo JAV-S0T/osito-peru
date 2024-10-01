@@ -1,0 +1,23 @@
+void main () {
+  rectangulo ();
+  texto();
+  animate (mecanica);
+  
+}
+
+void rectangulo () {
+  rect (110,110,100,100);
+}
+
+void texto (){
+  fill(61,215,219);
+  text ("Pulsa acá",120,165);
+}
+
+void mecanica (){
+  if  (mouseButton == LEFTBUTTON && mouseX > 110 && mouseX < 210 && mouseY > 110 && mouseY < 210);
+  background(111,199,74);
+}
+
+
+background(199,94,94);
